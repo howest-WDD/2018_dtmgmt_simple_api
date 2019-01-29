@@ -1,5 +1,5 @@
 # simple-php-api
-This API was created to teach at Howest in the course module "Datamanagement"
+This API was created to teach at Howest in the course module "Datamanagement" met dank aan Florian Verniers.
 ## Getting started
 Place the "extern" folder at a location of your choosing. Rename it, if you want to. This will be the location where your api will live e.g. http://yourwebsite.com/extern/api.php .
 
